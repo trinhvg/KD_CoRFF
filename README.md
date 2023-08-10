@@ -80,7 +80,4 @@ python inference.py \
  --dataset 'prostate_kbsmc' \
  --ckpt ./save/ckpt.pth\
 ```
-<<<<<<< HEAD
-# KD_CoRFF
-=======
->>>>>>> 174d467 (Initial commit)
+
