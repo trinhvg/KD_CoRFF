@@ -9,7 +9,7 @@ Trinh Thi Le Vuong and Jin Tae Kwak.
 
 ```
 <p align="center">
-  <img src="figures/Network.png" width="600">
+  <img src="figures/overview.jpg" width="600">
 </p>
 
 
